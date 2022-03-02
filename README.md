@@ -2,7 +2,7 @@
 # Welcome to my Profile!!!   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=parthiban-selvaraj.repoName)
 
 - 🔭 I am currently working as a Blockchain Technical Lead
-- 🌱 Currently learning : NodeJs, AWS and Python
+- 🌱 Currently learning : NodeJs, AWS, Python and ReactJS
 - 👯 I’m looking forward to collaborate on Blockchain and IoT
 - 💬 Ask me about: Blockchain, Hyperledger Fabric and Blockchain Interoperability
 - 📫 How to reach me: <a href="mailto:parthibanft@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/parthiban-selvaraj/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
